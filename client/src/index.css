@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(to right ,#FF6D00, #A10D2B, #D95FB5); 
+}
+
+canvas{
+  position : absolute;
+  width: 100%;
+  z-index:-1;
+}
+
+a {
+  color: #f50057;
+}
+
